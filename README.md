@@ -29,4 +29,4 @@ This challenge simulates a real-world scenario where you need to work on multipl
 
 ## Success
 
-When you have successfully merged all branches and resolved all conflicts, you will receive a badge for your achievement!
+When you have successfully merged all branches and resolved all conflicts, you will receive a badge for your achievement!Main branch changes
